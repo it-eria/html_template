@@ -210,7 +210,7 @@ var urlHandler = {
   */
   getFileName: function (name, withRenderedSuffix) {
     
-    var baseDir     = "patterns";
+    var baseDir     = "Patterns";
     var fileName    = "";
     
     if (name === undefined) {
@@ -222,7 +222,7 @@ var urlHandler = {
     }
     
     if (name == "all") {
-      return "styleguide/html/styleguide.html";
+      return "Styleguide/html/styleguide.html";
     } else if (name == "snapshots") {
       return "snapshots/index.html";
     }
@@ -363,7 +363,7 @@ var urlHandler = {
     var iFramePath = "";
     iFramePath = this.getFileName(patternName);
     if (iFramePath === "") {
-      iFramePath = "styleguide/html/styleguide.html";
+      iFramePath = "Styleguide/html/styleguide.html";
     }
     
     var obj = JSON.stringify({ "event": "patternLab.updatePath", "path": iFramePath });
@@ -1853,7 +1853,7 @@ window.addEventListener("message", receiveIframeMessage, false);
   // set up the defaults for the
   var baseIframePath = window.location.protocol+"//"+window.location.host+window.location.pathname.replace("index.html","");
   var patternName    = ((config.defaultPattern !== undefined) && (typeof config.defaultPattern === 'string') && (config.defaultPattern.trim().length > 0)) ? config.defaultPattern : 'all';
-  var iFramePath     = baseIframePath+"styleguide/html/styleguide.html?"+Date.now();
+  var iFramePath     = baseIframePath+"Styleguide/html/styleguide.html?"+Date.now();
   if ((oGetVars.p !== undefined) || (oGetVars.pattern !== undefined)) {
     patternName = (oGetVars.p !== undefined) ? oGetVars.p : oGetVars.pattern;
   }
