@@ -1,0 +1,592 @@
+{
+    "section-title": {
+        "titles": {
+            "t-level": "2",
+            "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-5\"></i></span>Suchergebnisse"
+        }
+    },
+    "search-results": [
+        {
+            "paragraphs": [
+                {
+                    "p-text": "Kapitel V"
+                },
+                {
+                    "p-text": "Psychische und Verhaltensstörungen"
+                },
+                {
+                    "p-text": "(F00-F99)"
+                }
+            ]
+        },
+        {
+            "paragraphs": [
+                {
+                    "p-text": "Entwicklungsstörungen"
+                },
+                {
+                    "p-text": "(F80-F89)"
+                }
+            ]
+        }
+    ],
+    "text": {
+        "paragraph-1": {
+            "paragraphs": {
+                "p-text": "Die in diesem Abschnitt zusammengefassten Störungen haben folgende Gemeinsamkeiten:"
+            }
+        },
+        "list-items": [
+            {
+                "text": "Beginn ausnahmslos im Kleinkindalter oder in der Kindheit; eine Entwicklungseinschränkung oder -verzögerung von Funktionen, die eng mit der"
+            },
+            {
+                "text": "biologischen Reifung des Zentralnervensystems verknüpft sind;"
+            },
+            {
+                "text": "stetiger Verlauf ohne Remissionen und Rezidive."
+            }
+        ],
+        "paragraph-2": {
+            "paragraphs": {
+                "p-text": "In den meisten Fällen sind unter anderem die Sprache, die visuellräumlichen Fertigkeiten und die Bewegungskoordination betroffen. In der Regel bestand die Verzögerung oder Schwäche vom frühestmöglichen Erkennungszeitpunkt an. Mit dem Älterwerden der Kinder vermindern sich die Störungen zunehmend, wenn auch geringere Defizite oft im Erwachsenenalter zurückbleiben."
+            }
+        }
+    },
+    "panels": [
+        {
+            "panel-title": {
+                "id": {
+                    "titles": {
+                        "t-level": "2",
+                        "t-text": "F80.-"
+                    }
+                },
+                "title": {
+                    "titles": {
+                        "t-level": "2",
+                        "t-text": "Umschriebene Entwicklungsstörungen des Sprechens und der Sprache"
+                    }
+                },
+                "button": {
+                    "collapse-id": "collapse1"
+                }
+            },
+            "panel-content": {
+                "paragraphs": {
+                    "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+                }
+            },
+            "panel-table": {
+                "table-title": {
+                    "id-col": {
+                        "paragraphs": {
+                            "p-text": "#"
+                        }
+                    },
+                    "title-col-1": {
+                        "paragraphs": {
+                            "p-text": "Titel"
+                        }
+                    },
+                    "title-col-2": {
+                        "paragraphs": {
+                            "p-text": "Beschreibung"
+                        }
+                    },
+                    "title-col-3": {
+                        "paragraphs": {
+                            "p-text": "Status"
+                        }
+                    }
+                },
+                "table-rows": [
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F80.0"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Artikulationsstörung"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "eligible": true,
+                            "paragraphs": {
+                                "p-text": "Förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Jugendamt"
+                                },
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    },
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F80.1"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Expressive Sprachstörung"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "eligible": true,
+                            "paragraphs": {
+                                "p-text": "Förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Jugendamt"
+                                },
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    },
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F80.3"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "paragraphs": {
+                                "p-text": "Nicht förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "panel-title": {
+                "id": {
+                    "titles": {
+                        "t-level": "2",
+                        "t-text": "F81.-"
+                    }
+                },
+                "title": {
+                    "titles": {
+                        "t-level": "2",
+                        "t-text": "Umschriebene Entwicklungsstörungen schulischer Fertigkeiten"
+                    }
+                },
+                "button": {
+                    "collapse-id": "collapse2"
+                }
+            },
+            "panel-content": {
+                "paragraphs": {
+                    "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+                }
+            },
+            "panel-table": {
+                "table-title": {
+                    "id-col": {
+                        "paragraphs": {
+                            "p-text": "#"
+                        }
+                    },
+                    "title-col-1": {
+                        "paragraphs": {
+                            "p-text": "Titel"
+                        }
+                    },
+                    "title-col-2": {
+                        "paragraphs": {
+                            "p-text": "Beschreibung"
+                        }
+                    },
+                    "title-col-3": {
+                        "paragraphs": {
+                            "p-text": "Status"
+                        }
+                    }
+                },
+                "table-rows": [
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F81.0"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Artikulationsstörung"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "eligible": true,
+                            "paragraphs": {
+                                "p-text": "Förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Jugendamt"
+                                },
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    },
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F81.1"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Expressive Sprachstörung"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "eligible": true,
+                            "paragraphs": {
+                                "p-text": "Förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Jugendamt"
+                                },
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    },
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F81.3"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "paragraphs": {
+                                "p-text": "Nicht förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "panel-title": {
+                "id": {
+                    "titles": {
+                        "t-level": "2",
+                        "t-text": "F82.-"
+                    }
+                },
+                "title": {
+                    "titles": {
+                        "t-level": "2",
+                        "t-text": "Umschriebene Entwicklungsstörung der motorischen Funktionen"
+                    }
+                },
+                "button": {
+                    "collapse-id": "collapse3"
+                }
+            },
+            "panel-content": {
+                "paragraphs": {
+                    "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+                }
+            },
+            "panel-table": {
+                "table-title": {
+                    "id-col": {
+                        "paragraphs": {
+                            "p-text": "#"
+                        }
+                    },
+                    "title-col-1": {
+                        "paragraphs": {
+                            "p-text": "Titel"
+                        }
+                    },
+                    "title-col-2": {
+                        "paragraphs": {
+                            "p-text": "Beschreibung"
+                        }
+                    },
+                    "title-col-3": {
+                        "paragraphs": {
+                            "p-text": "Status"
+                        }
+                    }
+                },
+                "table-rows": [
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F82.0"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Artikulationsstörung"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "eligible": true,
+                            "paragraphs": {
+                                "p-text": "Förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Jugendamt"
+                                },
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    },
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F82.1"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Expressive Sprachstörung"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "eligible": true,
+                            "paragraphs": {
+                                "p-text": "Förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Jugendamt"
+                                },
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    },
+                    {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "F82.3"
+                            }   
+                        },
+                        "col-1": {
+                            "paragraphs": {
+                                "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                            }   
+                        },
+                        "col-2": {
+                            "paragraphs": {
+                                "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                            },
+                            "link": {
+                                "a": {
+                                    "url": "#",
+                                    "a-text": "Zusatzinformationen"
+                                }
+                            }
+                        },
+                        "col-3": {
+                            "paragraphs": {
+                                "p-text": "Nicht förderfähig"
+                            },
+                            "titles": {
+                                "t-level": "4",
+                                "t-text": "Zuständiges Amt:"
+                            },
+                            "list-items": [
+                                {
+                                    "text": "Sozialamt"
+                                }
+                            ]
+                        },
+                        "col-4": {
+                            "blue-btn-text": "Antrag stellen"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

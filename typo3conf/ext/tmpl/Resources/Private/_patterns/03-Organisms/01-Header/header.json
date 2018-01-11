@@ -1,0 +1,195 @@
+{
+    "login-block": true,
+    "search-block": {
+        "image": {
+            "url": "../../Images/logo.svg",
+            "alt": "logo",
+            "class": {
+                "class-name": "img-responsive"
+            }
+        }
+    },
+    "navigation-block": {
+        "list": {
+            "items": [
+                {
+                    "isActive": true,
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "Leben mit Beeinträchtigung"
+                        }
+                    }                    
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "Infothek"
+                        }
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "Anträge"
+                        }
+                    },
+                    "dropdown": {
+                        "lists": [
+                            {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung & Studium"
+                                },
+                                "list-items": [
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Loremipsum dolor sit"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Amet consetetur"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Sadipscing elitr seddiamnonumy"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Eirmod tempor"
+                                        }       
+                                    }
+                                ]
+                            },
+                            {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                },
+                                "list-items": [
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Amet consetetur"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Sadipscing elitr seddiamnonumy"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Eirmod tempor"
+                                        }       
+                                    }
+                                ]
+                            },
+                            {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                },
+                                "list-items": [
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Seddiamnonumy"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Eirmod tempor"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Invidunt ut labore et dolore"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Magnaaliquyam"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Eratsed diam"
+                                        }       
+                                    },
+                                    {
+                                        "link": {
+                                            "a": true,
+                                            "url": "#",
+                                            "a-text": "Voluptualoremipsum"
+                                        }       
+                                    }
+                                ]
+                            }
+                        ]  
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "Thema"
+                        }
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "Thema"
+                        }
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "News"
+                        }
+                    }
+                }
+            ]
+        }  
+    }
+}

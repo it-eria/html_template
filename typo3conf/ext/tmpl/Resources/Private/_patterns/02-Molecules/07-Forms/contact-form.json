@@ -1,0 +1,16 @@
+{
+    "inputs": [
+        {
+            "placeholder": "Name"
+        },
+        {
+            "placeholder": "E-Mail"
+        }
+    ],
+    "textarea": {
+        "placeholder": "Ihre Nachricht"
+    },
+    "submit": {
+        "blue-btn-text": "Anfrage senden"
+    }
+}

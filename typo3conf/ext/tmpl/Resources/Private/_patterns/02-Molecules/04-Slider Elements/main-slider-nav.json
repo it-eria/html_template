@@ -1,0 +1,10 @@
+{
+    "titles": {
+        "t-level": "4",
+        "t-text": "Title"
+    },
+    "paragraphs": {
+        "p-text": "Lorem ipsum dolor"
+    },
+    "blue-btn-text": "Button"
+}

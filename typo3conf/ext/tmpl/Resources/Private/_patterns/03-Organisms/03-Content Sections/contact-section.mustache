@@ -1,0 +1,36 @@
+<section class="content-line bg-green bg-contact">
+    <div class="container">
+        {{#section-title}}
+            <div class="row">
+                <div class="col-xs-12">
+                    {{> Molecules-section-title }}
+                </div>
+            </div>
+        {{/section-title}}
+        <div class="row mt">
+            <div class="col-xs-12 col-sm-6">
+                {{#contact-form}}
+                    {{> Molecules-contact-form }}
+                {{/contact-form}}
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                {{#contact-text}}
+                    <div class="b-contact-inf">
+                        {{> Atoms-paragraph }}
+                    </div>
+                {{/contact-text}}
+                {{#address}}
+                    <div class="b-contact-inf">
+                        {{> Atoms-paragraph }}
+                        {{> Atoms-link }}
+                    </div>
+                {{/address}}
+                {{#work-shedule}}
+                    <div class="b-contact-inf">
+                        {{> Atoms-work-shedule }}
+                    </div>
+                {{/work-shedule}}
+            </div>
+        </div>
+    </div>
+</section>

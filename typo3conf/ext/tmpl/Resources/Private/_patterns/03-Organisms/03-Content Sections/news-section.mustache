@@ -1,0 +1,48 @@
+<section class="content-line">
+    <div class="container">
+        {{#section-title}}
+            <div class="row">
+                <div class="col-xs-12">
+                    {{> Molecules-section-title }}
+                </div>
+            </div>
+        {{/section-title}}
+        <div class="row hidden-xs">
+            {{#teasers}}
+                <div class="col-xs-12 col-sm-6 col-md-3 teaser-wraper">
+                    {{> Molecules-teaser-type-2 }}
+                </div>
+            {{/teasers}}
+        </div>
+        <!-- For mobile -->
+        <div class="row hidden-sm hidden-md hidden-lg">
+            <div class="col-xs-12">
+                <div class="news-slider">
+                    {{#teasers}}
+                        {{> Molecules-teaser-type-2 }}
+                    {{/teasers}}
+                </div>
+            </div>
+        </div>
+        <div class="row hidden-sm hidden-md hidden-lg">
+            <div class="col-xs-12">
+                <div class="news-slider-nav-wraper">
+                    <div class="slider-arrows-ctrl">
+                        {{> Atoms-slider-arrow }}
+                    </div>
+                    <div class="news-dots">
+                        <div class="dots-ctrl"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row teasers-row hidden-sm hidden-md hidden-lg">
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                {{#promo-teasers}}
+                    {{> Molecules-promo-teaser }}
+                {{/promo-teasers}}
+            </div>
+        </div>
+        <!-- /For mobile -->
+    </div>
+</section>

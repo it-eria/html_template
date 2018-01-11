@@ -1,0 +1,1220 @@
+{
+  "version": 1,
+  "timestamp": 1515147744667,
+  "graph": {
+    "options": {
+      "directed": true,
+      "multigraph": false,
+      "compound": false
+    },
+    "nodes": [
+      {
+        "v": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-06-Articles-suche-article\\03-Organisms-06-Articles-suche-article.rendered.html",
+          "lineagePattern": "Organisms-suche-article"
+        }
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h1.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h2.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h3.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h4.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-welcome-section\\03-Organisms-03-Content Sections-welcome-section.rendered.html",
+          "lineagePattern": "Organisms-welcome-section"
+        }
+      },
+      {
+        "v": "01-Atoms\\03-Links\\link.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-04-Footer-footer\\03-Organisms-04-Footer-footer.rendered.html",
+          "lineagePattern": "Organisms-footer"
+        }
+      },
+      {
+        "v": "01-Atoms\\04-Lists\\list.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-04-Footer-footer\\03-Organisms-04-Footer-footer.rendered.html",
+          "lineagePattern": "Organisms-footer"
+        }
+      },
+      {
+        "v": "01-Atoms\\04-Lists\\pagination.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-08-Pagination-pagination\\02-Molecules-08-Pagination-pagination.rendered.html",
+          "lineagePattern": "Molecules-pagination"
+        }
+      },
+      {
+        "v": "01-Atoms\\05-Buttons\\blue-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-02-Sliders-main-slider\\03-Organisms-02-Sliders-main-slider.rendered.html",
+          "lineagePattern": "Organisms-main-slider"
+        }
+      },
+      {
+        "v": "01-Atoms\\05-Buttons\\burger-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-01-Login Block-login-block\\02-Molecules-01-Login Block-login-block.rendered.html",
+          "lineagePattern": "Molecules-login-block"
+        }
+      },
+      {
+        "v": "01-Atoms\\05-Buttons\\call-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-01-Login Block-login-block\\02-Molecules-01-Login Block-login-block.rendered.html",
+          "lineagePattern": "Molecules-login-block"
+        }
+      },
+      {
+        "v": "01-Atoms\\05-Buttons\\help-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-07-Forms-formular-form\\02-Molecules-07-Forms-formular-form.rendered.html",
+          "lineagePattern": "Molecules-formular-form"
+        }
+      },
+      {
+        "v": "01-Atoms\\05-Buttons\\login-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-03-Main Navigation-main-navigation\\02-Molecules-03-Main Navigation-main-navigation.rendered.html",
+          "lineagePattern": "Molecules-main-navigation"
+        }
+      },
+      {
+        "v": "01-Atoms\\05-Buttons\\slider-arrow.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-news-section\\03-Organisms-03-Content Sections-news-section.rendered.html",
+          "lineagePattern": "Organisms-news-section"
+        }
+      },
+      {
+        "v": "01-Atoms\\06-Logo\\logo.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-02-Search Block-search-block\\02-Molecules-02-Search Block-search-block.rendered.html",
+          "lineagePattern": "Molecules-search-block"
+        }
+      },
+      {
+        "v": "01-Atoms\\07-Images\\image.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-04-Footer-footer\\03-Organisms-04-Footer-footer.rendered.html",
+          "lineagePattern": "Organisms-footer"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\label.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-07-Forms-formular-form\\02-Molecules-07-Forms-formular-form.rendered.html",
+          "lineagePattern": "Molecules-formular-form"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\search-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-03-Main Navigation-main-navigation\\02-Molecules-03-Main Navigation-main-navigation.rendered.html",
+          "lineagePattern": "Molecules-main-navigation"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\search-field.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-03-Main Navigation-main-navigation\\02-Molecules-03-Main Navigation-main-navigation.rendered.html",
+          "lineagePattern": "Molecules-main-navigation"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\select.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-news-section-2\\03-Organisms-03-Content Sections-news-section-2.rendered.html",
+          "lineagePattern": "Organisms-news-section-2"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\submit-btn.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-07-Forms-formular-form\\02-Molecules-07-Forms-formular-form.rendered.html",
+          "lineagePattern": "Molecules-formular-form"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\tags-input.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-07-Forms-formular-form\\02-Molecules-07-Forms-formular-form.rendered.html",
+          "lineagePattern": "Molecules-formular-form"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\text-input.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-07-Forms-formular-form\\02-Molecules-07-Forms-formular-form.rendered.html",
+          "lineagePattern": "Molecules-formular-form"
+        }
+      },
+      {
+        "v": "01-Atoms\\08-Form Elements\\textarea.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-07-Forms-contact-form\\02-Molecules-07-Forms-contact-form.rendered.html",
+          "lineagePattern": "Molecules-contact-form"
+        }
+      },
+      {
+        "v": "01-Atoms\\09-Rest Text Elements\\teaser-date.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-06-Teasers-teaser-type-2\\02-Molecules-06-Teasers-teaser-type-2.rendered.html",
+          "lineagePattern": "Molecules-teaser-type-2"
+        }
+      },
+      {
+        "v": "01-Atoms\\09-Rest Text Elements\\work-shedule.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-contact-section\\03-Organisms-03-Content Sections-contact-section.rendered.html",
+          "lineagePattern": "Organisms-contact-section"
+        }
+      },
+      {
+        "v": "01-Atoms\\10-Breadcrumb\\breadcrumb.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-05-Breadcrumb-breadcrumb\\03-Organisms-05-Breadcrumb-breadcrumb.rendered.html",
+          "lineagePattern": "Organisms-breadcrumb"
+        }
+      },
+      {
+        "v": "02-Molecules\\01-Login Block\\login-block.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-01-Header-header\\03-Organisms-01-Header-header.rendered.html",
+          "lineagePattern": "Organisms-header"
+        }
+      },
+      {
+        "v": "02-Molecules\\02-Search Block\\search-block.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-01-Header-header\\03-Organisms-01-Header-header.rendered.html",
+          "lineagePattern": "Organisms-header"
+        }
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\main-navigation.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-01-Header-header\\03-Organisms-01-Header-header.rendered.html",
+          "lineagePattern": "Organisms-header"
+        }
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\navigation-dropdown.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/01-Atoms-04-Lists-list\\01-Atoms-04-Lists-list.rendered.html",
+          "lineagePattern": "Atoms-list"
+        }
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-nav.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-02-Sliders-main-slider\\03-Organisms-02-Sliders-main-slider.rendered.html",
+          "lineagePattern": "Organisms-main-slider"
+        }
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-teaser.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-02-Sliders-main-slider\\03-Organisms-02-Sliders-main-slider.rendered.html",
+          "lineagePattern": "Organisms-main-slider"
+        }
+      },
+      {
+        "v": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-welcome-section\\03-Organisms-03-Content Sections-welcome-section.rendered.html",
+          "lineagePattern": "Organisms-welcome-section"
+        }
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\_promo-teaser.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-welcome-section\\03-Organisms-03-Content Sections-welcome-section.rendered.html",
+          "lineagePattern": "Organisms-welcome-section"
+        }
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-1.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-welcome-section\\03-Organisms-03-Content Sections-welcome-section.rendered.html",
+          "lineagePattern": "Organisms-welcome-section"
+        }
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-news-section\\03-Organisms-03-Content Sections-news-section.rendered.html",
+          "lineagePattern": "Organisms-news-section"
+        }
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\contact-form.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-contact-section\\03-Organisms-03-Content Sections-contact-section.rendered.html",
+          "lineagePattern": "Organisms-contact-section"
+        }
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-suche-formular\\03-Organisms-03-Content Sections-suche-formular.rendered.html",
+          "lineagePattern": "Organisms-suche-formular"
+        }
+      },
+      {
+        "v": "02-Molecules\\08-Pagination\\pagination.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-news-section-2\\03-Organisms-03-Content Sections-news-section-2.rendered.html",
+          "lineagePattern": "Organisms-news-section-2"
+        }
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel-table.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/02-Molecules-09-Panels-panel\\02-Molecules-09-Panels-panel.rendered.html",
+          "lineagePattern": "Molecules-panel"
+        }
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-suche-information\\03-Organisms-03-Content Sections-suche-information.rendered.html",
+          "lineagePattern": "Organisms-suche-information"
+        }
+      },
+      {
+        "v": "03-Organisms\\01-Header\\header.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-05-Suche-suche\\04-Templates-05-Suche-suche.rendered.html",
+          "lineagePattern": "Templates-suche"
+        }
+      },
+      {
+        "v": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-01-Startseite-startseite\\04-Templates-01-Startseite-startseite.rendered.html",
+          "lineagePattern": "Templates-startseite"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-05-Suche-suche\\04-Templates-05-Suche-suche.rendered.html",
+          "lineagePattern": "Templates-suche"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\formular-section.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-04-Formular-formular\\04-Templates-04-Formular-formular.rendered.html",
+          "lineagePattern": "Templates-formular"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-02-News-news\\04-Templates-02-News-news.rendered.html",
+          "lineagePattern": "Templates-news"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-3.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-03-News Detail-news-detail\\04-Templates-03-News Detail-news-detail.rendered.html",
+          "lineagePattern": "Templates-news-detail"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-01-Startseite-startseite\\04-Templates-01-Startseite-startseite.rendered.html",
+          "lineagePattern": "Templates-startseite"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-formular.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-05-Suche-suche\\04-Templates-05-Suche-suche.rendered.html",
+          "lineagePattern": "Templates-suche"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-information.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-05-Suche-suche\\04-Templates-05-Suche-suche.rendered.html",
+          "lineagePattern": "Templates-suche"
+        }
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\welcome-section.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-01-Startseite-startseite\\04-Templates-01-Startseite-startseite.rendered.html",
+          "lineagePattern": "Templates-startseite"
+        }
+      },
+      {
+        "v": "03-Organisms\\04-Footer\\footer.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-05-Suche-suche\\04-Templates-05-Suche-suche.rendered.html",
+          "lineagePattern": "Templates-suche"
+        }
+      },
+      {
+        "v": "03-Organisms\\05-Breadcrumb\\breadcrumb.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/04-Templates-05-Suche-suche\\04-Templates-05-Suche-suche.rendered.html",
+          "lineagePattern": "Templates-suche"
+        }
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-news-section-3\\03-Organisms-03-Content Sections-news-section-3.rendered.html",
+          "lineagePattern": "Organisms-news-section-3"
+        }
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\suche-article.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/03-Organisms-03-Content Sections-suche-formular\\03-Organisms-03-Content Sections-suche-formular.rendered.html",
+          "lineagePattern": "Organisms-suche-formular"
+        }
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/05-Pages-01-Startseite-startseite\\05-Pages-01-Startseite-startseite.rendered.html",
+          "lineagePattern": "Pages-startseite"
+        }
+      },
+      {
+        "v": "04-Templates\\02-News\\news.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/05-Pages-02-News-news\\05-Pages-02-News-news.rendered.html",
+          "lineagePattern": "Pages-news"
+        }
+      },
+      {
+        "v": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/05-Pages-03-News Detail-news-detail\\05-Pages-03-News Detail-news-detail.rendered.html",
+          "lineagePattern": "Pages-news-detail"
+        }
+      },
+      {
+        "v": "04-Templates\\04-Formular\\formular.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/05-Pages-04-Formular-formular\\05-Pages-04-Formular-formular.rendered.html",
+          "lineagePattern": "Pages-formular"
+        }
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "value": {
+          "compileState": "clean",
+          "lineagePath": "../../patterns/05-Pages-05-Suche-suche\\05-Pages-05-Suche-suche.rendered.html",
+          "lineagePattern": "Pages-suche"
+        }
+      },
+      {
+        "v": "05-Pages\\01-Startseite\\startseite.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "05-Pages\\02-News\\news.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "05-Pages\\03-News Detail\\news-detail.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "05-Pages\\04-Formular\\formular.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "05-Pages\\05-Suche\\suche.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "D:\\FrontEnd\\Gemany\\Inkluviva\\From Repositorie\\inkluviva\\html-template\\typo3conf\\ext\\tmpl\\Resources\\Private\\_meta\\_00-head.mustache",
+        "value": {
+          "compileState": null
+        }
+      },
+      {
+        "v": "D:\\FrontEnd\\Gemany\\Inkluviva\\From Repositorie\\inkluviva\\html-template\\typo3conf\\ext\\tmpl\\Resources\\Private\\_meta\\_01-foot.mustache",
+        "value": {
+          "compileState": null
+        }
+      }
+    ],
+    "edges": [
+      {
+        "v": "01-Atoms\\01-Titles\\title-h1.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h2.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h3.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-Atoms\\01-Titles\\title-h4.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\navigation-dropdown.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-Atoms\\04-Lists\\list.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-Atoms\\04-Lists\\list.mustache",
+        "w": "02-Molecules\\03-Main Navigation\\navigation-dropdown.mustache",
+        "value": {}
+      },
+      {
+        "v": "01-Atoms\\06-Logo\\logo.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\01-Login Block\\login-block.mustache",
+        "w": "01-Atoms\\05-Buttons\\call-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\01-Login Block\\login-block.mustache",
+        "w": "01-Atoms\\05-Buttons\\login-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\01-Login Block\\login-block.mustache",
+        "w": "01-Atoms\\05-Buttons\\burger-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\02-Search Block\\search-block.mustache",
+        "w": "01-Atoms\\06-Logo\\logo.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\02-Search Block\\search-block.mustache",
+        "w": "01-Atoms\\08-Form Elements\\search-field.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\02-Search Block\\search-block.mustache",
+        "w": "01-Atoms\\08-Form Elements\\search-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\main-navigation.mustache",
+        "w": "01-Atoms\\05-Buttons\\login-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\main-navigation.mustache",
+        "w": "01-Atoms\\08-Form Elements\\search-field.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\main-navigation.mustache",
+        "w": "01-Atoms\\08-Form Elements\\search-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\03-Main Navigation\\main-navigation.mustache",
+        "w": "01-Atoms\\04-Lists\\list.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-nav.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-nav.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-nav.mustache",
+        "w": "01-Atoms\\05-Buttons\\blue-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-teaser.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\04-Slider Elements\\main-slider-teaser.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "w": "01-Atoms\\09-Rest Text Elements\\teaser-date.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\_promo-teaser.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-1.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-1.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-1.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-1.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "w": "01-Atoms\\09-Rest Text Elements\\teaser-date.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\contact-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\text-input.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\contact-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\textarea.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\contact-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\submit-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\label.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\text-input.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\tags-input.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\select.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\05-Buttons\\help-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "w": "01-Atoms\\08-Form Elements\\submit-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\08-Pagination\\pagination.mustache",
+        "w": "01-Atoms\\04-Lists\\pagination.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel-table.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel-table.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel-table.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel-table.mustache",
+        "w": "01-Atoms\\05-Buttons\\blue-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "02-Molecules\\09-Panels\\panel.mustache",
+        "w": "02-Molecules\\09-Panels\\panel-table.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\01-Header\\header.mustache",
+        "w": "02-Molecules\\01-Login Block\\login-block.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\01-Header\\header.mustache",
+        "w": "02-Molecules\\02-Search Block\\search-block.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\01-Header\\header.mustache",
+        "w": "02-Molecules\\03-Main Navigation\\main-navigation.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "w": "02-Molecules\\04-Slider Elements\\main-slider-teaser.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "w": "01-Atoms\\05-Buttons\\blue-btn.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "w": "01-Atoms\\05-Buttons\\slider-arrow.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "w": "02-Molecules\\04-Slider Elements\\main-slider-nav.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "w": "02-Molecules\\07-Forms\\contact-form.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "w": "01-Atoms\\09-Rest Text Elements\\work-shedule.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\formular-section.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\formular-section.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\formular-section.mustache",
+        "w": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "w": "01-Atoms\\08-Form Elements\\select.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "w": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "w": "02-Molecules\\08-Pagination\\pagination.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "w": "02-Molecules\\06-Teasers\\_promo-teaser.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "w": "01-Atoms\\05-Buttons\\slider-arrow.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-3.mustache",
+        "w": "03-Organisms\\06-Articles\\news-detail.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section-3.mustache",
+        "w": "02-Molecules\\06-Teasers\\_promo-teaser.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section.mustache",
+        "w": "02-Molecules\\06-Teasers\\teaser-type-2.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section.mustache",
+        "w": "01-Atoms\\05-Buttons\\slider-arrow.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\news-section.mustache",
+        "w": "02-Molecules\\06-Teasers\\_promo-teaser.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\suche-article.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\suche-article.mustache",
+        "w": "01-Atoms\\01-Titles\\_titles.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\06-Articles\\suche-article.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-formular.mustache",
+        "w": "03-Organisms\\06-Articles\\suche-article.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-formular.mustache",
+        "w": "02-Molecules\\07-Forms\\formular-form.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-information.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-information.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\suche-information.mustache",
+        "w": "02-Molecules\\09-Panels\\panel.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\welcome-section.mustache",
+        "w": "02-Molecules\\05-Section Title\\section-title.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\welcome-section.mustache",
+        "w": "01-Atoms\\02-Paragraph\\paragraph.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\welcome-section.mustache",
+        "w": "02-Molecules\\06-Teasers\\teaser-type-1.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\03-Content Sections\\welcome-section.mustache",
+        "w": "02-Molecules\\06-Teasers\\_promo-teaser.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\04-Footer\\footer.mustache",
+        "w": "01-Atoms\\03-Links\\link.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\04-Footer\\footer.mustache",
+        "w": "01-Atoms\\04-Lists\\list.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\04-Footer\\footer.mustache",
+        "w": "01-Atoms\\07-Images\\image.mustache",
+        "value": {}
+      },
+      {
+        "v": "03-Organisms\\05-Breadcrumb\\breadcrumb.mustache",
+        "w": "01-Atoms\\10-Breadcrumb\\breadcrumb.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "w": "03-Organisms\\01-Header\\header.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "w": "03-Organisms\\02-Sliders\\main-slider.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "w": "03-Organisms\\03-Content Sections\\welcome-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "w": "03-Organisms\\03-Content Sections\\news-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "w": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\01-Startseite\\startseite.mustache",
+        "w": "03-Organisms\\04-Footer\\footer.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\02-News\\news.mustache",
+        "w": "03-Organisms\\01-Header\\header.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\02-News\\news.mustache",
+        "w": "03-Organisms\\05-Breadcrumb\\breadcrumb.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\02-News\\news.mustache",
+        "w": "03-Organisms\\03-Content Sections\\news-section-2.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\02-News\\news.mustache",
+        "w": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\02-News\\news.mustache",
+        "w": "03-Organisms\\04-Footer\\footer.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "w": "03-Organisms\\01-Header\\header.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "w": "03-Organisms\\05-Breadcrumb\\breadcrumb.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "w": "03-Organisms\\03-Content Sections\\news-section-3.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "w": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "w": "03-Organisms\\04-Footer\\footer.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\04-Formular\\formular.mustache",
+        "w": "03-Organisms\\01-Header\\header.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\04-Formular\\formular.mustache",
+        "w": "03-Organisms\\05-Breadcrumb\\breadcrumb.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\04-Formular\\formular.mustache",
+        "w": "03-Organisms\\03-Content Sections\\formular-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\04-Formular\\formular.mustache",
+        "w": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\04-Formular\\formular.mustache",
+        "w": "03-Organisms\\04-Footer\\footer.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "w": "03-Organisms\\01-Header\\header.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "w": "03-Organisms\\05-Breadcrumb\\breadcrumb.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "w": "03-Organisms\\03-Content Sections\\suche-formular.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "w": "03-Organisms\\03-Content Sections\\suche-information.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "w": "03-Organisms\\03-Content Sections\\contact-section.mustache",
+        "value": {}
+      },
+      {
+        "v": "04-Templates\\05-Suche\\suche.mustache",
+        "w": "03-Organisms\\04-Footer\\footer.mustache",
+        "value": {}
+      },
+      {
+        "v": "05-Pages\\01-Startseite\\startseite.mustache",
+        "w": "04-Templates\\01-Startseite\\startseite.mustache",
+        "value": {}
+      },
+      {
+        "v": "05-Pages\\02-News\\news.mustache",
+        "w": "04-Templates\\02-News\\news.mustache",
+        "value": {}
+      },
+      {
+        "v": "05-Pages\\03-News Detail\\news-detail.mustache",
+        "w": "04-Templates\\03-News Detail\\news-detail.mustache",
+        "value": {}
+      },
+      {
+        "v": "05-Pages\\04-Formular\\formular.mustache",
+        "w": "04-Templates\\04-Formular\\formular.mustache",
+        "value": {}
+      },
+      {
+        "v": "05-Pages\\05-Suche\\suche.mustache",
+        "w": "04-Templates\\05-Suche\\suche.mustache",
+        "value": {}
+      }
+    ]
+  }
+}

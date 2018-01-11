@@ -1,0 +1,36 @@
+<section class="content-line bg-grey">
+  <div class="container">
+    {{#section-title}}
+    <div class="row">
+      <div class="col-xs-12">
+        {{> Molecules-section-title }}
+      </div>
+    </div>
+    {{/section-title}} {{#search-results}}
+    <div class="row search-result">
+      <div class="col-xs-12">
+        {{> Atoms-paragraph }}
+      </div>
+    </div>
+    {{/search-results}} {{#text}}
+    <div class="row">
+      <div class="col-xs-12">
+        <article>
+          {{#paragraph-1}} {{> Atoms-paragraph }} {{/paragraph-1}}
+          <ul>
+            {{#list-items}}
+            <li>{{text}}</li>
+            {{/list-items}}
+          </ul>
+          {{#paragraph-2}} {{> Atoms-paragraph }} {{/paragraph-2}}
+        </article>
+      </div>
+    </div>
+    {{/text}}
+    <div class="row panels-row">
+      <div class="col-xs-12">
+        {{#panels}} {{> Molecules-panel }} {{/panels}}
+      </div>
+    </div>
+  </div>
+</section>

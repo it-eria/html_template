@@ -1,0 +1,45 @@
+<form action="#" id="formular-form">
+    {{#formular-row}}
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-offset-1 col-md-5" data-mh="formular-gr">
+                {{> Atoms-label }}
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-5" data-mh="formular-gr">
+                {{#regular-input}}
+                    {{> Atoms-text-input }}
+                {{/regular-input}}
+                {{#tags-input}}
+                    {{> Atoms-tags-input }}
+                {{/tags-input}}
+                {{#select-element}}
+                    {{> Atoms-select }}
+                {{/select-element}}
+                {{#help-btn}}
+                    {{> Atoms-help-btn }}
+                {{/help-btn}}
+            </div>
+            {{#oder}}
+                <div class="col-xs-12 col-md-offset-1 col-md-11 oder">
+                    <p>oder</p>
+                </div>
+            {{/oder}}
+        </div>
+    {{/formular-row}}
+    {{#formular-last-row}}
+        <div class="row last-row">
+            <div class="col-xs-12 col-sm-6 col-md-offset-1 col-md-5">
+                {{> Atoms-label }}
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-5">
+                {{> Atoms-paragraph }}
+            </div>
+        </div>
+    {{/formular-last-row}}
+    {{#submit-formular}}
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                {{> Atoms-submit-btn }}
+            </div>
+        </div>
+    {{/submit-formular}}
+</form>

@@ -1,0 +1,261 @@
+{
+    "section-title": {
+        "titles": {
+            "t-level": "2",
+            "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-2\"></i></span>News"
+        },
+        "options": [
+            {
+                "option-name": "Alle News anzeigen"
+            },
+            {
+                "option-name": "News 1"
+            },
+            {
+                "option-name": "News 2"
+            },
+            {
+                "option-name": "News 3"
+            },
+            {
+                "option-name": "News 4"
+            },
+            {
+                "option-name": "News 5"
+            },
+            {
+                "option-name": "News 6"
+            }
+        ]
+    },
+    "teasers": [
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-5.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "06.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Gesetz zur Gleichstellung"
+            },
+            "paragraphs": {
+                "p-text": "Neuerungen rund um Recht und Gesetz: Angehörige können nun mehr Unterstützung erwarten."
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-6.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "05.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Teilhabe"
+            },
+            "paragraphs": {
+                "p-text": "Was bedeutet Teilhabe und ein selbstbestimmtes Leben?"
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-7.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "05.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Bildung & Inklusion"
+            },
+            "paragraphs": {
+                "p-text": "Von der Schule zum Beruf: Wie werden inklusive Bildungsangebote gezielt gefördert?"
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-8.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "03.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Starke Sport-Partner"
+            },
+            "paragraphs": {
+                "p-text": "Beim Sport können sich Menschen mit und ohne Behinderung treffen und gemeinsam trainieren."
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-5.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "06.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Gesetz zur Gleichstellung"
+            },
+            "paragraphs": {
+                "p-text": "Neuerungen rund um Recht und Gesetz: Angehörige können nun mehr Unterstützung erwarten."
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-6.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "05.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Teilhabe"
+            },
+            "paragraphs": {
+                "p-text": "Was bedeutet Teilhabe und ein selbstbestimmtes Leben?"
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-7.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "05.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Bildung & Inklusion"
+            },
+            "paragraphs": {
+                "p-text": "Von der Schule zum Beruf: Wie werden inklusive Bildungsangebote gezielt gefördert?"
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-8.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "teaser-date": "03.01.2018",
+            "titles": {
+                "t-level": "3",
+                "t-text": "Starke Sport-Partner"
+            },
+            "paragraphs": {
+                "p-text": "Beim Sport können sich Menschen mit und ohne Behinderung treffen und gemeinsam trainieren."
+            },
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Weiterlesen"
+            }
+        }
+    ],
+    "pagination": {
+        "pagination-pages": [
+            {
+                "isCurrent": true,
+                "page-number": "1"
+            },
+            {
+                "page-number": "2"
+            },
+            {
+                "page-number": "3"
+            },
+            {
+                "page-number": "4"
+            },
+            {
+                "page-number": "5"
+            },
+            {
+                "page-number": "6"
+            }
+        ]
+    },
+    "promo-teasers": [
+        {
+            "image": {
+                "url": "../../Images/Dummy/sidebar-teaser-1.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/sidebar-teaser-2.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/sidebar-teaser-3.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        }
+    ]
+}

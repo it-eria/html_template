@@ -1,0 +1,274 @@
+{
+    "lists": [
+        {
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Leben mit Beeinträchtigung"
+            },
+            "isList": true,
+            "list": {
+                "items": [
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Bundesweiteliste Ärzte & Ämter"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Beratung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Schule, Ausbildung &Studium"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Freizeitaktivitäten & Treffpunkte"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Therapien & Hilfestellung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Mobilität"
+                            }
+                        }                    
+                    }
+                ]
+            }
+        },
+        {
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Infothek"
+            },
+            "isList": true,
+            "list": {
+                "items": [
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Beratung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Schule, Ausbildung &Studium"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Freizeitaktivitäten & Treffpunkte"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Therapien & Hilfestellung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Mobilität"
+                            }
+                        }                    
+                    }
+                ]
+            }
+        },
+        {
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Anträge"
+            },
+            "isList": true,
+            "list": {
+                "items": [
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Schule, Ausbildung &Studium"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Freizeitaktivitäten & Treffpunkte"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Therapien & Hilfestellung"
+                            }
+                        }                    
+                    }
+                ]
+            }
+        },
+        {
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "Thema"
+            },
+            "isList": true,
+            "list": {
+                "items": [
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Freizeitaktivitäten & Treffpunkte"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Therapien & Hilfestellung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Beratung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Schule, Ausbildung &Studium"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Freizeitaktivitäten & Treffpunkte"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Therapien & Hilfestellung"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Mobilität"
+                            }
+                        }                    
+                    }
+                ]
+            }
+        },
+        {
+            "link": {
+                "a": true,
+                "url": "#",
+                "a-text": "News"
+            }
+        }
+    ],
+    "partners": [
+        {
+            "image": {
+                "url": "../../Images/Dummy/partner-1.gif",
+                "alt": "thumbnail"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/partner-2.gif",
+                "alt": "thumbnail"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/partner-3.gif",
+                "alt": "thumbnail"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/partner-4.gif",
+                "alt": "thumbnail"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+<div class="main-slider">
+  {{#slides}}
+  <div class="slide">
+    {{#slide-thumbnail}}
+    <div class="slide__thumbnail">
+      {{> Atoms-image }}
+    </div>
+    {{/slide-thumbnail}} {{#slide-content}}
+    <div class="slide__content hidden-xs hidden-sm">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            {{#slide-teaser}} {{> Molecules-main-slider-teaser }} {{/slide-teaser}} {{#slide-btn}} {{> Atoms-blue-btn }} {{/slide-btn}}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{/slide-content}}
+  </div>
+  {{/slides}}
+</div>
+<div class="main-slider-nav-wraper">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="slider-arrows-ctrl">
+          {{> Atoms-slider-arrow }}
+        </div>
+        <div class="main-slider-nav">
+          {{#nav-sliders}} {{> Molecules-main-slider-nav }} {{/nav-sliders}}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="dots-ctrl"></div>
+      </div>
+    </div>
+  </div>
+</div>

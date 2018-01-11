@@ -1,0 +1,119 @@
+{
+    "slides": [
+        {
+            "slide-thumbnail": {
+                "image": {
+                    "url": "../../Images/Dummy/slide-1.jpg",
+                    "alt": "slide 1",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            "slide-content": {
+                "slide-teaser": {
+                    "titles": {
+                        "t-level": "1",
+                        "t-text": "Teilhabeassistenz"
+                    },
+                    "paragraphs": {
+                        "p-text": "Geben Sie Ihrem Kind mit Beeinträchtigung die Chance auf einen Schulabschluss."
+                    }
+                },
+                "slide-btn": {
+                    "blue-btn-text": "Zur Jobbörse"
+                }
+            }
+        },
+        {
+            "slide-thumbnail": {
+                "image": {
+                    "url": "../../Images/Dummy/slide-1.jpg",
+                    "alt": "slide 1",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            "slide-content": {
+                "slide-teaser": {
+                    "titles": {
+                        "t-level": "1",
+                        "t-text": "Ausbildungsplatz oder Job trotz Beeinträchtigung?"
+                    },
+                    "paragraphs": {
+                        "p-text": "Unsere Jobbörse ist allen zugänglich - hier finden sich ..."
+                    }
+                },
+                "slide-btn": {
+                    "blue-btn-text": "Zur Jobbörse"
+                }
+            }
+        },
+        {
+            "slide-thumbnail": {
+                "image": {
+                    "url": "../../Images/Dummy/slide-1.jpg",
+                    "alt": "slide 1",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            "slide-content": {
+                "slide-teaser": {
+                    "titles": {
+                        "t-level": "1",
+                        "t-text": "Persönliches Budget"
+                    },
+                    "paragraphs": {
+                        "p-text": "Seit dem 1. Januar 2008 haben Menschen mit Behinderung einen Anspruch auf ein Persönliches ..."
+                    }
+                },
+                "slide-btn": {
+                    "blue-btn-text": "Zur Jobbörse"
+                }
+            }
+        }
+    ],
+    "nav-sliders": [
+        {
+            "titles": {
+                "t-level": "4",
+                "t-text": "Teilhabeassistenz"
+            },
+            "paragraphs": {
+                "p-text": "Geben Sie Ihrem Kind mit Beeinträchtigung die Chance auf einen Schulabschluss"
+            },
+            "blue-btn-text": "Mehr Infos"
+        },
+        {
+            "titles": {
+                "t-level": "4",
+                "t-text": "Ausbildungsplatz oder Job trotz Beeinträchtigung?"
+            },
+            "paragraphs": {
+                "p-text": "Unsere Jobbörse ist allen zugänglich - hier finden sich ..."
+            },
+            "blue-btn-text": "Mehr Infos"
+        },
+        {
+            "titles": {
+                "t-level": "4",
+                "t-text": "Persönliches Budget"
+            },
+            "paragraphs": {
+                "p-text": "Seit dem 1. Januar 2008 haben Menschen mit Behinderung einen Anspruch auf ein Persönliches ..."
+            },
+            "blue-btn-text": "Mehr Infos"
+        }
+    ],
+    "slider-arrows": [
+        {
+            "side": "prev"
+        },
+        {
+            "side": "next"
+        }
+    ]
+}

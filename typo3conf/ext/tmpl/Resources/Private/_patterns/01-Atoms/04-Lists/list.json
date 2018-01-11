@@ -1,0 +1,82 @@
+{
+    "list": [
+        {
+            "items": [
+                {
+                    "item-text": {
+                       "li-text": "List Item Text 1"
+                    }
+                },
+                {
+                    "item-text": {
+                       "li-text": "List Item Text 2"
+                    }
+                },
+                {
+                    "item-text": {
+                       "li-text": "List Item Text 3"
+                    }
+                },
+                {
+                    "item-text": {
+                       "li-text": "List Item Text 4"
+                    }
+                },
+                {
+                    "item-text": {
+                       "li-text": "List Item Text 5"
+                    }
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "List Item Link 1"
+                        }
+                    }                    
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "List Item Link 2"
+                        }
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "List Item Link 3"
+                        }
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "List Item Link 4"
+                        }
+                    }
+                },
+                {
+                    "item-link": {
+                        "link": {
+                            "a": true,
+                            "url": "#",
+                            "a-text": "List Item Link 5"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

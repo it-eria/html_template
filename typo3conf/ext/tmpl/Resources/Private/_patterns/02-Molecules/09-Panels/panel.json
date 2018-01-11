@@ -1,0 +1,178 @@
+{
+    "panel-title": {
+        "id": {
+            "titles": {
+                "t-level": "2",
+                "t-text": "F80.-"
+            }
+        },
+        "title": {
+            "titles": {
+                "t-level": "2",
+                "t-text": "Umschriebene Entwicklungsstörungen des Sprechens und der Sprache"
+            }
+        },
+        "button": {
+            "collapse-id": "collapse1"
+        }
+    },
+    "panel-content": {
+        "paragraphs": {
+            "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+        }
+    },
+    "panel-table": {
+        "table-title": {
+            "id-col": {
+                "paragraphs": {
+                    "p-text": "#"
+                }
+            },
+            "title-col-1": {
+                "paragraphs": {
+                    "p-text": "Titel"
+                }
+            },
+            "title-col-2": {
+                "paragraphs": {
+                    "p-text": "Beschreibung"
+                }
+            },
+            "title-col-3": {
+                "paragraphs": {
+                    "p-text": "Status"
+                }
+            }
+        },
+        "table-rows": [
+            {
+                "id-col": {
+                    "paragraphs": {
+                        "p-text": "F80.0"
+                    }   
+                },
+                "col-1": {
+                    "paragraphs": {
+                        "p-text": "Artikulationsstörung"
+                    }   
+                },
+                "col-2": {
+                    "paragraphs": {
+                        "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                    },
+                    "link": {
+                        "a": {
+                            "url": "#",
+                            "a-text": "Zusatzinformationen"
+                        }
+                    }
+                },
+                "col-3": {
+                    "eligible": true,
+                    "paragraphs": {
+                        "p-text": "Förderfähig"
+                    },
+                    "titles": {
+                        "t-level": "4",
+                        "t-text": "Zuständiges Amt:"
+                    },
+                    "list-items": [
+                        {
+                            "text": "Jugendamt"
+                        },
+                        {
+                            "text": "Sozialamt"
+                        }
+                    ]
+                },
+                "col-4": {
+                    "blue-btn-text": "Antrag stellen"
+                }
+            },
+            {
+                "id-col": {
+                    "paragraphs": {
+                        "p-text": "F80.1"
+                    }   
+                },
+                "col-1": {
+                    "paragraphs": {
+                        "p-text": "Expressive Sprachstörung"
+                    }   
+                },
+                "col-2": {
+                    "paragraphs": {
+                        "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                    },
+                    "link": {
+                        "a": {
+                            "url": "#",
+                            "a-text": "Zusatzinformationen"
+                        }
+                    }
+                },
+                "col-3": {
+                    "eligible": true,
+                    "paragraphs": {
+                        "p-text": "Förderfähig"
+                    },
+                    "titles": {
+                        "t-level": "4",
+                        "t-text": "Zuständiges Amt:"
+                    },
+                    "list-items": [
+                        {
+                            "text": "Jugendamt"
+                        },
+                        {
+                            "text": "Sozialamt"
+                        }
+                    ]
+                },
+                "col-4": {
+                    "blue-btn-text": "Antrag stellen"
+                }
+            },
+            {
+                "id-col": {
+                    "paragraphs": {
+                        "p-text": "F80.3"
+                    }   
+                },
+                "col-1": {
+                    "paragraphs": {
+                        "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                    }   
+                },
+                "col-2": {
+                    "paragraphs": {
+                        "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                    },
+                    "link": {
+                        "a": {
+                            "url": "#",
+                            "a-text": "Zusatzinformationen"
+                        }
+                    }
+                },
+                "col-3": {
+                    "paragraphs": {
+                        "p-text": "Nicht förderfähig"
+                    },
+                    "titles": {
+                        "t-level": "4",
+                        "t-text": "Zuständiges Amt:"
+                    },
+                    "list-items": [
+                        {
+                            "text": "Sozialamt"
+                        }
+                    ]
+                },
+                "col-4": {
+                    "blue-btn-text": "Antrag stellen"
+                }
+            }
+        ]
+    }
+}

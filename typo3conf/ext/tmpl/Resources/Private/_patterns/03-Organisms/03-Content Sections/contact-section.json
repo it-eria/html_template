@@ -1,0 +1,69 @@
+{
+    "section-title": {
+        "section-title-inverse": true,
+        "titles": {
+            "t-level": "2",
+            "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-3\"></i></span>Kontakt"
+        }
+    },
+    "contact-form": {
+        "inputs": [
+            {
+                "placeholder": "Name"
+            },
+            {
+                "placeholder": "E-Mail"
+            }
+        ],
+        "textarea": {
+            "placeholder": "Ihre Nachricht"
+        },
+        "submit": {
+            "blue-btn-text": "Anfrage senden"
+        }
+    },
+    "contact-text": {
+        "paragraphs": {
+            "p-text": "Sie haben weitere Fragen oder konnten in unserer Datenbank nichts finden? Dann rufen Sie uns an oder schreiben uns eine kurze E-Mail."
+        }
+    },
+    "address": {
+        "paragraphs": [
+            {
+                "p-text": "Kirchstr. 13"
+            },
+            {
+                "p-text": "35633 Lahnau"
+            },
+            {
+                "p-text": "06441 66 90 14 0"
+            }
+        ],
+        "link": {
+            "a": true,
+            "url": "mailto:info@inkluviva.de",
+            "a-text": "info@inkluviva.de"
+        }
+    },
+    "work-shedule": {
+        "title": "Bürozeiten",
+        "rows": [
+            {
+                "days": "Mo - Mi",
+                "hours": "09 - 18 Uhr"
+            },
+            {
+                "days": "Mi",
+                "hours": "14 - 19 Uhr"
+            },
+            {
+                "days": "Do - Fr",
+                "hours": "08 - 20 Uhr"
+            },
+            {
+                "days": "Sa - So",
+                "hours": "16 - 19 Uhr"
+            }
+        ]
+    }
+}

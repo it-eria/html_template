@@ -1,0 +1,19 @@
+{
+    "section-title": {
+        "titles": {
+            "t-level": "2",
+            "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-2\"></i></span> Lorem ipsum"
+        }
+    },
+    "article-title": {
+        "titles": {
+            "t-level": "1",
+            "t-text": "ICD10 - Hat Ihr Kind Anrecht auf Unterstützung?"
+        }
+    },
+    "article-paragraph": {
+        "paragraphs": {
+            "p-text": "Hier finden Sie die Onlinefassungen der Diagnosenklassifikation ICD-10-GM. Diese erste Abfrage kann nur eine Orientierung und Einschätzung sein. Da eine Antragsstellung oftmals viele verschiedene Parameter berücksichtigt, gewähren wir keine Garantie, sollte Ihr Antrag dennoch abgelehnt werden. Sie können im Anschluss an diese Vorprüfung direkt einen Antrag stellen oder sich an eine beratende Stelle in Ihrer Nähe wenden. Diese werden Ihnen bei Antragsstellung für Ihren Wohnort ausgegeben."
+        }
+    }
+}

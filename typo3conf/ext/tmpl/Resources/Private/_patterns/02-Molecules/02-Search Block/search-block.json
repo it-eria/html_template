@@ -1,0 +1,9 @@
+{
+    "image": {
+        "url": "../../Images/logo.svg",
+        "alt": "logo",
+        "class": {
+            "class-name": "img-responsive"
+        }
+    }
+}

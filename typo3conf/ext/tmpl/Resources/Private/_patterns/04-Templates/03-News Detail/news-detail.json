@@ -1,0 +1,720 @@
+{
+    "header": {
+        "login-block": true,
+        "search-block": {
+            "image": {
+                "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                "alt": "logo",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        },
+        "navigation-block": {
+            "list": {
+                "items": [
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 1"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 2"
+                            }
+                        }
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 3"
+                            }
+                        },
+                        "dropdown": {
+                            "lists": [
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 1"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 4"
+                                            }       
+                                        }
+                                    ]
+                                },
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 2"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        }
+                                    ]
+                                },
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 3"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 4"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 5"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 6"
+                                            }       
+                                        }
+                                    ]
+                                },
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 4"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 4"
+                            }
+                        }
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 5"
+                            }
+                        }
+                    },
+                    {
+                        "isActive": true,
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 6"
+                            }
+                        }
+                    }
+                ]
+            }  
+        }
+    },
+    "breadcrumb": {
+        "breadcrumb-list": [
+            {
+                "page-name": "Startseite"
+            },
+            {
+                "page-name": "News"
+            }
+        ],
+        "breadcrumb-last": "Übersicht"
+    },
+    "content-line-1": {
+        "article": {
+            "section-title": {
+                "titles": {
+                    "t-level": "2",
+                    "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-2\"></i></span> News"
+                },
+                "date": {
+                    "teaser-date": "01.06.2018"
+                }
+            },
+            "article-title": {
+                "titles": {
+                    "t-level": "1",
+                    "t-text": "Gesetz zur Gleichstellung"
+                }
+            },
+            "article-thumbnail": {
+                "image": {
+                    "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive article-thumbnail"
+                    }
+                }
+            },
+            "after-thumbnail-paragraph": {
+                "paragraphs": {
+                    "p-text": "<b>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</b>"
+                }
+            },
+            "text-section-1": {
+                "paragraphs": {
+                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit <span class=\"img-left\"><img src=\"https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg\" alt=\"content image\"><span class=\"caption\">Lorem ipsum dolor sit, consetetur sadipscing elitr, sed diam eirmod invidunt. <a href=\"#\"><i class=\"icon icon-black-search\"></i></a></span></span> amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor <a href=\"#\">invidunt ut labore dolore</a> magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br><br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <a href=\"#\">nonumy eirmod tempor</a> invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+            },
+            "title-section-1": {
+                "titles": {
+                    "t-level": "4",
+                    "t-text": "Lorem ipsum dolor sit amet, consetetur sadipscing."
+                }
+            },
+            "text-section-2": {
+                "paragraphs": {
+                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+                }
+            },
+            "carousel-section": {
+                "slider-arrows": [
+                    {
+                        "side": "prev"
+                    },
+                    {
+                        "side": "next"
+                    }
+                ],
+                "sliders": [
+                    {
+                        "image": {
+                            "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                            "alt": "thumbnail",
+                            "class": {
+                                "class-name": "img-responsive"
+                            }
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                            "alt": "thumbnail",
+                            "class": {
+                                "class-name": "img-responsive"
+                            }
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                            "alt": "thumbnail",
+                            "class": {
+                                "class-name": "img-responsive"
+                            }
+                        }
+                    }
+                ]
+            },
+            "text-section-3": {
+                "paragraphs": {
+                    "p-text": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                }
+            },
+            "text-section-4": {
+                "paragraphs": {
+                    "p-text": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy <span class=\"img-right\"><img src=\"https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg\" alt=\"content image\"><span class=\"caption\">Lorem ipsum dolor sit, consetetur sadipscing elitr, sed diam eirmod invidunt. <a href=\"#\"><i class=\"icon icon-black-search\"></i></a></span></span> eirmod <b>tempor invidunt ut labore</b> et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br><br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+                }
+            },
+            "text-section-5": {
+                "paragraphs": {
+                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt."
+                }
+            },
+            "more-bottom-link": {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Zurück zur Übersicht"
+                }
+            }
+        },
+        "promo-teasers": [
+            {
+                "image": {
+                    "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            {
+                "image": {
+                    "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            {
+                "image": {
+                    "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            }
+        ]
+    },
+    "content-line-2": {
+        "section-title": {
+            "section-title-inverse": true,
+            "titles": {
+                "t-level": "2",
+                "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-3\"></i></span>Kontakt"
+            }
+        },
+        "contact-form": {
+            "inputs": [
+                {
+                    "placeholder": "Name"
+                },
+                {
+                    "placeholder": "E-Mail"
+                }
+            ],
+            "textarea": {
+                "placeholder": "Ihre Nachricht"
+            },
+            "submit": {
+                "blue-btn-text": "Anfrage senden"
+            }
+        },
+        "contact-text": {
+            "paragraphs": {
+                "p-text": "Sie haben weitere Fragen oder konnten in unserer Datenbank nichts finden? Dann rufen Sie uns an oder schreiben uns eine kurze E-Mail."
+            }
+        },
+        "address": {
+            "paragraphs": [
+                {
+                    "p-text": "Kirchstr. 13"
+                },
+                {
+                    "p-text": "35633 Lahnau"
+                },
+                {
+                    "p-text": "06441 66 90 14 0"
+                }
+            ],
+            "link": {
+                "a": true,
+                "url": "mailto:info@inkluviva.de",
+                "a-text": "info@inkluviva.de"
+            }
+        },
+        "work-shedule": {
+            "title": "Bürozeiten",
+            "rows": [
+                {
+                    "days": "Mo - Mi",
+                    "hours": "09 - 18 Uhr"
+                },
+                {
+                    "days": "Mi",
+                    "hours": "14 - 19 Uhr"
+                },
+                {
+                    "days": "Do - Fr",
+                    "hours": "08 - 20 Uhr"
+                },
+                {
+                    "days": "Sa - So",
+                    "hours": "16 - 19 Uhr"
+                }
+            ]
+        }
+    },
+    "footer": {
+        "lists": [
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Leben mit Beeinträchtigung"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Bundesweiteliste Ärzte & Ämter"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Beratung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Mobilität"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Infothek"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Beratung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Mobilität"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Anträge"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Thema"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Beratung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Mobilität"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "News"
+                }
+            }
+        ],
+        "partners": [
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-1.gif",
+                    "alt": "thumbnail"
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-2.gif",
+                    "alt": "thumbnail"
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-3.gif",
+                    "alt": "thumbnail"
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-4.gif",
+                    "alt": "thumbnail"
+                }
+            }
+        ]
+    }
+}

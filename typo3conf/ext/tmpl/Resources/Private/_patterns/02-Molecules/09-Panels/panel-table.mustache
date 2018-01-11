@@ -1,0 +1,71 @@
+<div class="panel-table">
+    {{#table-title}}
+        <div class="row table-title hidden-xs hidden-sm">
+            <div class="col-xs-1">
+                {{#id-col}}
+                    {{> Atoms-paragraph }}
+                {{/id-col}}
+            </div>
+            <div class="col-xs-2">
+                {{#title-col-1}}
+                    {{> Atoms-paragraph }}
+                {{/title-col-1}}
+            </div>
+            <div class="col-xs-4">
+                {{#title-col-2}}
+                    {{> Atoms-paragraph }}
+                {{/title-col-2}}
+            </div>
+            <div class="col-xs-2">
+                {{#title-col-3}}
+                    {{> Atoms-paragraph }}
+                {{/title-col-3}}
+            </div>
+            <div class="col-xs-3">
+                {{#title-col-4}}
+                    {{> Atoms-paragraph }}
+                {{/title-col-4}}
+            </div>
+        </div>
+    {{/table-title}}
+    {{#table-rows}}
+        <div class="row table-row">
+            <div class="col-xs-12 col-md-1" data-mh="panel-table-col-gr">
+                {{#id-col}}
+                    {{> Atoms-paragraph }}
+                {{/id-col}}
+            </div>
+            <div class="col-xs-12 col-md-2" data-mh="panel-table-col-gr">
+                {{#col-1}}
+                    {{> Atoms-paragraph }}
+                {{/col-1}}
+            </div>
+            <div class="col-xs-12 col-md-4" data-mh="panel-table-col-gr">
+                {{#col-2}}
+                    {{> Atoms-paragraph }}
+                    <div class="more-link">
+                        {{> Atoms-link }}
+                    </div>
+                {{/col-2}}
+            </div>
+            <div class="col-xs-12 col-md-2" data-mh="panel-table-col-gr">
+                {{#col-3}}
+                    <div class="status {{#eligible}}status_eligible{{/eligible}}">
+                        {{> Atoms-paragraph }}
+                    </div>
+                    {{> Atoms-titles }}
+                    <ul>
+                        {{#list-items}}
+                            <li>{{text}}</li>
+                        {{/list-items}}
+                    </ul>
+                {{/col-3}}
+            </div>
+            <div class="col-xs-12 col-md-3" data-mh="panel-table-col-gr">
+                {{#col-4}}
+                    {{> Atoms-blue-btn }}
+                {{/col-4}}
+            </div>
+        </div>
+    {{/table-rows}}
+</div>

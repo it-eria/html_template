@@ -1,0 +1,20 @@
+{
+    "image": {
+        "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+        "alt": "thumbnail",
+        "class": {
+            "class-name": "teaser-thumbnail"
+        }
+    },
+    "titles": {
+        "t-level": "3",
+        "t-text": "Teaser Title"
+    },
+    "paragraphs": {
+        "p-text": "Teaser short descriptions"
+    },
+    "link": {
+        "p": true,
+        "a-text": "More Link"
+    }
+}

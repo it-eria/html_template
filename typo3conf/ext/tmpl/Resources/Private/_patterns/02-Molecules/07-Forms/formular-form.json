@@ -1,0 +1,145 @@
+{
+    "formular-row": [
+        {
+            "label-for": "fe-val-1",
+            "label-text": "ICD-10 Dreisteller-Code",
+            "regular-input": {
+                "placeholder": "",
+                "input-id": "fe-val-1"
+            },
+            "help-btn": true
+        },
+        {
+            "label-for": "fe-val-2",
+            "label-text": "Ihre Auswahl",
+            "tags-input": {
+                "placeholder": "",
+                "input-id": "fe-val-2"
+            },
+            "help-btn": true
+        },
+        {
+            "label-for": "fe-val-3",
+            "label-text": "Ihr Wohnort (PLZ oder Ort)",
+            "regular-input": {
+                "placeholder": "",
+                "input-id": "fe-val-3"
+            }
+        },
+        {
+            "label-for": "fe-val-4",
+            "label-text": "Kommune / Landkreis der Schule, die besucht wird oder werden soll",
+            "regular-input": {
+                "placeholder": "",
+                "input-id": "fe-val-4"
+            },
+            "help-btn": true
+        },
+        {
+            "label-for": "fe-val-5",
+            "label-text": "Klasse /Schulform auswählen",
+            "select-element": {
+                "select-id": "fe-val-5",
+                "options": [
+                    {
+                        "option-name": ""
+                    },
+                    {
+                        "option-name": "Option 1"
+                    },
+                    {
+                        "option-name": "Option 2"
+                    },
+                    {
+                        "option-name": "Option 3"
+                    },
+                    {
+                        "option-name": "Option 4"
+                    }
+                ]
+            }
+        },
+        {
+            "label-for": "fe-val-6",
+            "label-text": "Liegt Ihnen ein ärztlicher Bericht vor?",
+            "select-element": {
+                "select-id": "fe-val-6",
+                "options": [
+                    {
+                        "option-name": ""
+                    },
+                    {
+                        "option-name": "Option 1"
+                    },
+                    {
+                        "option-name": "Option 2"
+                    },
+                    {
+                        "option-name": "Option 3"
+                    },
+                    {
+                        "option-name": "Option 4"
+                    }
+                ]
+            }
+        },
+        {
+            "label-for": "fe-val-7",
+            "label-text": "Liegt ein Bericht der Betreuungs-oder Bildungseinrichtung vor?",
+            "select-element": {
+                "select-id": "fe-val-7",
+                "options": [
+                    {
+                        "option-name": ""
+                    },
+                    {
+                        "option-name": "Option 1"
+                    },
+                    {
+                        "option-name": "Option 2"
+                    },
+                    {
+                        "option-name": "Option 3"
+                    },
+                    {
+                        "option-name": "Option 4"
+                    }
+                ]
+            }
+        },
+        {
+            "label-for": "fe-val-8",
+            "label-text": "Ist dies ein Erstantrag?",
+            "select-element": {
+                "select-id": "fe-val-8",
+                "options": [
+                    {
+                        "option-name": ""
+                    },
+                    {
+                        "option-name": "Option 1"
+                    },
+                    {
+                        "option-name": "Option 2"
+                    },
+                    {
+                        "option-name": "Option 3"
+                    },
+                    {
+                        "option-name": "Option 4"
+                    }
+                ]
+            }
+        }
+    ],
+    "formular-last-row": {
+        "label-for": "",
+        "label-text": "Hinweis",
+        "paragraphs": {
+            "p-text": "Sollte kein Bericht oder Gutachten vorliegen, wenden Sie sich bitte an die beratenden Stellen. <a href=\"#\">Eine Übersicht finden Sie hier.</a>"
+        }
+    },
+    "submit-formular": {
+        "blue-btn-text": "Antrag erstellen"
+    }
+}

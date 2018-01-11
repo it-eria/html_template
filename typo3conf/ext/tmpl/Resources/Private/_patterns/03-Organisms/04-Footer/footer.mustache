@@ -1,0 +1,64 @@
+<footer class="footer">
+    <div class="content-line bg-grey bg-footer">
+        <div class="container">
+            <div class="row hidden-xs">
+                <div class="col-xs-12">
+                    {{#lists}}
+                        <div class="footer__sitemap-item">
+                            {{> Atoms-link }}
+                            {{#isList}}
+                                {{> Atoms-list }}
+                            {{/isList}}
+                        </div>
+                    {{/lists}}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="footer__title">
+                        <h4>Kooperationspartner</h4>
+                    </div>
+                    <div class="footer__partners">
+                        {{#partners}}
+                            <a href="#">
+                                {{> Atoms-image }}
+                            </a>
+                        {{/partners}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <p>(C) INKLUVIVA</p>
+                    <ul>
+                        <li><a href="#">Impressum</a></li>
+                        <li><a href="#">Datenschutz</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <ul class="socials">
+                        <li>
+                            <a href="#">
+                                <i class="icon icon-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="icon icon-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="icon icon-google-plus"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

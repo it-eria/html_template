@@ -1,0 +1,1220 @@
+{
+    "header": {
+        "login-block": true,
+        "search-block": {
+            "image": {
+                "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+                "alt": "logo",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        },
+        "navigation-block": {
+            "list": {
+                "items": [
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 1"
+                            }
+                        }                    
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 2"
+                            }
+                        }
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 3"
+                            }
+                        },
+                        "dropdown": {
+                            "lists": [
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 1"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 4"
+                                            }       
+                                        }
+                                    ]
+                                },
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 2"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        }
+                                    ]
+                                },
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 3"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 4"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 5"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 6"
+                                            }       
+                                        }
+                                    ]
+                                },
+                                {
+                                    "link": {
+                                        "a": true,
+                                        "url": "#",
+                                        "a-text": "Title 4"
+                                    },
+                                    "list-items": [
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 1"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 2"
+                                            }       
+                                        },
+                                        {
+                                            "link": {
+                                                "a": true,
+                                                "url": "#",
+                                                "a-text": "Item 3"
+                                            }       
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 4"
+                            }
+                        }
+                    },
+                    {
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 5"
+                            }
+                        }
+                    },
+                    {
+                        "isActive": true,
+                        "item-link": {
+                            "link": {
+                                "a": true,
+                                "url": "#",
+                                "a-text": "Menu 6"
+                            }
+                        }
+                    }
+                ]
+            }  
+        }
+    },
+    "breadcrumb": {
+        "breadcrumb-list": [
+            {
+                "page-name": "Startseite"
+            },
+            {
+                "page-name": "Level 2"
+            }
+        ],
+        "breadcrumb-last": "Level 3"
+    },
+    "content-line-1": {
+        "article-part": {
+            "section-title": {
+                "titles": {
+                    "t-level": "2",
+                    "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-2\"></i></span> Lorem ipsum"
+                }
+            },
+            "article-title": {
+                "titles": {
+                    "t-level": "1",
+                    "t-text": "ICD10 - Hat Ihr Kind Anrecht auf Unterstützung?"
+                }
+            },
+            "article-paragraph": {
+                "paragraphs": {
+                    "p-text": "Hier finden Sie die Onlinefassungen der Diagnosenklassifikation ICD-10-GM. Diese erste Abfrage kann nur eine Orientierung und Einschätzung sein. Da eine Antragsstellung oftmals viele verschiedene Parameter berücksichtigt, gewähren wir keine Garantie, sollte Ihr Antrag dennoch abgelehnt werden. Sie können im Anschluss an diese Vorprüfung direkt einen Antrag stellen oder sich an eine beratende Stelle in Ihrer Nähe wenden. Diese werden Ihnen bei Antragsstellung für Ihren Wohnort ausgegeben."
+                }
+            }
+        },
+        "formular-part": {
+            "formular-row": [
+                {
+                    "label-for": "fe-val-1",
+                    "label-text": "Krankheitsbild",
+                    "tags-input": {
+                        "placeholder": "",
+                        "input-id": "fe-val-1"
+                    },
+                    "help-btn": true,
+                    "oder": true
+                },
+                {
+                    "label-for": "fe-val-2",
+                    "label-text": "Code-Suche in ICD-10 Dreisteller-Eingabe",
+                    "regular-input": {
+                        "placeholder": "",
+                        "input-id": "fe-val-2"
+                    },
+                    "help-btn": true
+                }
+            ],
+            "submit-formular": {
+                "blue-btn-text": "Suchen"
+            }
+        }
+    },
+    "content-line-2": {
+        "section-title": {
+            "titles": {
+                "t-level": "2",
+                "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-5\"></i></span>Suchergebnisse"
+            }
+        },
+        "search-results": [
+            {
+                "paragraphs": [
+                    {
+                        "p-text": "Kapitel V"
+                    },
+                    {
+                        "p-text": "Psychische und Verhaltensstörungen"
+                    },
+                    {
+                        "p-text": "(F00-F99)"
+                    }
+                ]
+            },
+            {
+                "paragraphs": [
+                    {
+                        "p-text": "Entwicklungsstörungen"
+                    },
+                    {
+                        "p-text": "(F80-F89)"
+                    }
+                ]
+            }
+        ],
+        "text": {
+            "paragraph-1": {
+                "paragraphs": {
+                    "p-text": "Die in diesem Abschnitt zusammengefassten Störungen haben folgende Gemeinsamkeiten:"
+                }
+            },
+            "list-items": [
+                {
+                    "text": "Beginn ausnahmslos im Kleinkindalter oder in der Kindheit; eine Entwicklungseinschränkung oder -verzögerung von Funktionen, die eng mit der"
+                },
+                {
+                    "text": "biologischen Reifung des Zentralnervensystems verknüpft sind;"
+                },
+                {
+                    "text": "stetiger Verlauf ohne Remissionen und Rezidive."
+                }
+            ],
+            "paragraph-2": {
+                "paragraphs": {
+                    "p-text": "In den meisten Fällen sind unter anderem die Sprache, die visuellräumlichen Fertigkeiten und die Bewegungskoordination betroffen. In der Regel bestand die Verzögerung oder Schwäche vom frühestmöglichen Erkennungszeitpunkt an. Mit dem Älterwerden der Kinder vermindern sich die Störungen zunehmend, wenn auch geringere Defizite oft im Erwachsenenalter zurückbleiben."
+                }
+            }
+        },
+        "panels": [
+            {
+                "panel-title": {
+                    "id": {
+                        "titles": {
+                            "t-level": "2",
+                            "t-text": "F80.-"
+                        }
+                    },
+                    "title": {
+                        "titles": {
+                            "t-level": "2",
+                            "t-text": "Umschriebene Entwicklungsstörungen des Sprechens und der Sprache"
+                        }
+                    },
+                    "button": {
+                        "collapse-id": "collapse1"
+                    }
+                },
+                "panel-content": {
+                    "paragraphs": {
+                        "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+                    }
+                },
+                "panel-table": {
+                    "table-title": {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "#"
+                            }
+                        },
+                        "title-col-1": {
+                            "paragraphs": {
+                                "p-text": "Titel"
+                            }
+                        },
+                        "title-col-2": {
+                            "paragraphs": {
+                                "p-text": "Beschreibung"
+                            }
+                        },
+                        "title-col-3": {
+                            "paragraphs": {
+                                "p-text": "Status"
+                            }
+                        }
+                    },
+                    "table-rows": [
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F80.0"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Artikulationsstörung"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "eligible": true,
+                                "paragraphs": {
+                                    "p-text": "Förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Jugendamt"
+                                    },
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        },
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F80.1"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Expressive Sprachstörung"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "eligible": true,
+                                "paragraphs": {
+                                    "p-text": "Förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Jugendamt"
+                                    },
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        },
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F80.3"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "paragraphs": {
+                                    "p-text": "Nicht förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "panel-title": {
+                    "id": {
+                        "titles": {
+                            "t-level": "2",
+                            "t-text": "F81.-"
+                        }
+                    },
+                    "title": {
+                        "titles": {
+                            "t-level": "2",
+                            "t-text": "Umschriebene Entwicklungsstörungen schulischer Fertigkeiten"
+                        }
+                    },
+                    "button": {
+                        "collapse-id": "collapse2"
+                    }
+                },
+                "panel-content": {
+                    "paragraphs": {
+                        "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+                    }
+                },
+                "panel-table": {
+                    "table-title": {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "#"
+                            }
+                        },
+                        "title-col-1": {
+                            "paragraphs": {
+                                "p-text": "Titel"
+                            }
+                        },
+                        "title-col-2": {
+                            "paragraphs": {
+                                "p-text": "Beschreibung"
+                            }
+                        },
+                        "title-col-3": {
+                            "paragraphs": {
+                                "p-text": "Status"
+                            }
+                        }
+                    },
+                    "table-rows": [
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F81.0"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Artikulationsstörung"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "eligible": true,
+                                "paragraphs": {
+                                    "p-text": "Förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Jugendamt"
+                                    },
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        },
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F81.1"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Expressive Sprachstörung"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "eligible": true,
+                                "paragraphs": {
+                                    "p-text": "Förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Jugendamt"
+                                    },
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        },
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F81.3"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "paragraphs": {
+                                    "p-text": "Nicht förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "panel-title": {
+                    "id": {
+                        "titles": {
+                            "t-level": "2",
+                            "t-text": "F82.-"
+                        }
+                    },
+                    "title": {
+                        "titles": {
+                            "t-level": "2",
+                            "t-text": "Umschriebene Entwicklungsstörung der motorischen Funktionen"
+                        }
+                    },
+                    "button": {
+                        "collapse-id": "collapse3"
+                    }
+                },
+                "panel-content": {
+                    "paragraphs": {
+                        "p-text": "Es handelt sich um Störungen, bei denen die normalen Muster des Spracherwerbs von frühen Entwicklungsstadien an beeinträchtigt sind. Die Störungen können nicht direkt neurologischen Störungen oder Veränderungen des Sprachablaufs, sensorischen Beeinträchtigungen, Intelligenzminderung oder Umweltfaktoren zugeordnet werden. Umschriebene Entwicklungsstörungen des Sprechens und der Sprache ziehen oft sekundäre Folgen nach sich, wie Schwierigkeiten beim Lesen und Rechtschreiben, Störungen im Bereich der zwischenmenschlichen Beziehungen, im emotionalen und Verhaltensbereich."
+                    }
+                },
+                "panel-table": {
+                    "table-title": {
+                        "id-col": {
+                            "paragraphs": {
+                                "p-text": "#"
+                            }
+                        },
+                        "title-col-1": {
+                            "paragraphs": {
+                                "p-text": "Titel"
+                            }
+                        },
+                        "title-col-2": {
+                            "paragraphs": {
+                                "p-text": "Beschreibung"
+                            }
+                        },
+                        "title-col-3": {
+                            "paragraphs": {
+                                "p-text": "Status"
+                            }
+                        }
+                    },
+                    "table-rows": [
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F82.0"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Artikulationsstörung"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "eligible": true,
+                                "paragraphs": {
+                                    "p-text": "Förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Jugendamt"
+                                    },
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        },
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F82.1"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Expressive Sprachstörung"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "eligible": true,
+                                "paragraphs": {
+                                    "p-text": "Förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Jugendamt"
+                                    },
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        },
+                        {
+                            "id-col": {
+                                "paragraphs": {
+                                    "p-text": "F82.3"
+                                }   
+                            },
+                            "col-1": {
+                                "paragraphs": {
+                                    "p-text": "Erworbene Aphasie mit Epilepsie (Landau-Kleffner-Syndrom)"
+                                }   
+                            },
+                            "col-2": {
+                                "paragraphs": {
+                                    "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                                },
+                                "link": {
+                                    "a": {
+                                        "url": "#",
+                                        "a-text": "Zusatzinformationen"
+                                    }
+                                }
+                            },
+                            "col-3": {
+                                "paragraphs": {
+                                    "p-text": "Nicht förderfähig"
+                                },
+                                "titles": {
+                                    "t-level": "4",
+                                    "t-text": "Zuständiges Amt:"
+                                },
+                                "list-items": [
+                                    {
+                                        "text": "Sozialamt"
+                                    }
+                                ]
+                            },
+                            "col-4": {
+                                "blue-btn-text": "Antrag stellen"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "content-line-3": {
+        "section-title": {
+            "section-title-inverse": true,
+            "titles": {
+                "t-level": "2",
+                "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-3\"></i></span>Kontakt"
+            }
+        },
+        "contact-form": {
+            "inputs": [
+                {
+                    "placeholder": "Name"
+                },
+                {
+                    "placeholder": "E-Mail"
+                }
+            ],
+            "textarea": {
+                "placeholder": "Ihre Nachricht"
+            },
+            "submit": {
+                "blue-btn-text": "Anfrage senden"
+            }
+        },
+        "contact-text": {
+            "paragraphs": {
+                "p-text": "Sie haben weitere Fragen oder konnten in unserer Datenbank nichts finden? Dann rufen Sie uns an oder schreiben uns eine kurze E-Mail."
+            }
+        },
+        "address": {
+            "paragraphs": [
+                {
+                    "p-text": "Kirchstr. 13"
+                },
+                {
+                    "p-text": "35633 Lahnau"
+                },
+                {
+                    "p-text": "06441 66 90 14 0"
+                }
+            ],
+            "link": {
+                "a": true,
+                "url": "mailto:info@inkluviva.de",
+                "a-text": "info@inkluviva.de"
+            }
+        },
+        "work-shedule": {
+            "title": "Bürozeiten",
+            "rows": [
+                {
+                    "days": "Mo - Mi",
+                    "hours": "09 - 18 Uhr"
+                },
+                {
+                    "days": "Mi",
+                    "hours": "14 - 19 Uhr"
+                },
+                {
+                    "days": "Do - Fr",
+                    "hours": "08 - 20 Uhr"
+                },
+                {
+                    "days": "Sa - So",
+                    "hours": "16 - 19 Uhr"
+                }
+            ]
+        }
+    },
+    "footer": {
+        "lists": [
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Leben mit Beeinträchtigung"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Bundesweiteliste Ärzte & Ämter"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Beratung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Mobilität"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Infothek"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Beratung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Mobilität"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Anträge"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "Thema"
+                },
+                "isList": true,
+                "list": {
+                    "items": [
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Beratung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Schule, Ausbildung &Studium"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Freizeitaktivitäten & Treffpunkte"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Therapien & Hilfestellung"
+                                }
+                            }                    
+                        },
+                        {
+                            "item-link": {
+                                "link": {
+                                    "a": true,
+                                    "url": "#",
+                                    "a-text": "Mobilität"
+                                }
+                            }                    
+                        }
+                    ]
+                }
+            },
+            {
+                "link": {
+                    "a": true,
+                    "url": "#",
+                    "a-text": "News"
+                }
+            }
+        ],
+        "partners": [
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-1.gif",
+                    "alt": "thumbnail"
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-2.gif",
+                    "alt": "thumbnail"
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-3.gif",
+                    "alt": "thumbnail"
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/partner-4.gif",
+                    "alt": "thumbnail"
+                }
+            }
+        ]
+    }
+}

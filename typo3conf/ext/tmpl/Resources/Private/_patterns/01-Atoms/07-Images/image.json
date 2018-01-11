@@ -1,0 +1,9 @@
+{
+    "image": {
+        "url": "https://www.allcloud.io/wp-content/uploads/2017/01/default-thumbnail.jpg",
+        "alt": "thumbnail",
+        "class": {
+            "class-name": "img-responsive"
+        }
+    }
+}

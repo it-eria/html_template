@@ -1,0 +1,108 @@
+{
+    "section-title": {
+        "titles": {
+            "t-level": "2",
+            "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-2\"></i></span> News"
+        },
+        "date": {
+            "teaser-date": "01.06.2018"
+        }
+    },
+    "article-title": {
+        "titles": {
+            "t-level": "1",
+            "t-text": "Gesetz zur Gleichstellung"
+        }
+    },
+    "article-thumbnail": {
+        "image": {
+            "url": "../../Images/Dummy/article-thumbnail.jpg",
+            "alt": "thumbnail",
+            "class": {
+                "class-name": "img-responsive article-thumbnail"
+            }
+        }
+    },
+    "after-thumbnail-paragraph": {
+        "paragraphs": {
+            "p-text": "<b>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</b>"
+        }
+    },
+    "text-section-1": {
+        "paragraphs": {
+            "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit <span class=\"img-left\"><img src=\"../../Images/Dummy/thumbnail-5.jpg\" alt=\"content image\"><span class=\"caption\">Lorem ipsum dolor sit, consetetur sadipscing elitr, sed diam eirmod invidunt. <a href=\"#\"><i class=\"icon icon-black-search\"></i></a></span></span> amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor <a href=\"#\">invidunt ut labore dolore</a> magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br><br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <a href=\"#\">nonumy eirmod tempor</a> invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+        }
+    },
+    "title-section-1": {
+        "titles": {
+            "t-level": "4",
+            "t-text": "Lorem ipsum dolor sit amet, consetetur sadipscing."
+        }
+    },
+    "text-section-2": {
+        "paragraphs": {
+            "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+        }
+    },
+    "carousel-section": {
+        "slider-arrows": [
+            {
+                "side": "prev"
+            },
+            {
+                "side": "next"
+            }
+        ],
+        "sliders": [
+            {
+                "image": {
+                    "url": "../../Images/Dummy/thumbnail-6.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/thumbnail-8.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            },
+            {
+                "image": {
+                    "url": "../../Images/Dummy/thumbnail-5.jpg",
+                    "alt": "thumbnail",
+                    "class": {
+                        "class-name": "img-responsive"
+                    }
+                }
+            }
+        ]
+    },
+    "text-section-3": {
+        "paragraphs": {
+            "p-text": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        }
+    },
+    "text-section-4": {
+        "paragraphs": {
+            "p-text": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy <span class=\"img-right\"><img src=\"../../Images/Dummy/thumbnail-1.jpg\" alt=\"content image\"><span class=\"caption\">Lorem ipsum dolor sit, consetetur sadipscing elitr, sed diam eirmod invidunt. <a href=\"#\"><i class=\"icon icon-black-search\"></i></a></span></span> eirmod <b>tempor invidunt ut labore</b> et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br><br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+        }
+    },
+    "text-section-5": {
+        "paragraphs": {
+            "p-text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt."
+        }
+    },
+    "more-bottom-link": {
+        "link": {
+            "a": true,
+            "url": "#",
+            "a-text": "Zurück zur Übersicht"
+        }
+    }
+}

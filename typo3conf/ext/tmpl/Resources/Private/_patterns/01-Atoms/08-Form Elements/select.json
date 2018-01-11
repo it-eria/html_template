@@ -1,0 +1,16 @@
+{
+    "options": [
+        {
+            "option-name": "Option 1"
+        },
+        {
+            "option-name": "Option 2"
+        },
+        {
+            "option-name": "Option 3"
+        },
+        {
+            "option-name": "Option 4"
+        }
+    ]
+}

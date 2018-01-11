@@ -1,0 +1,21 @@
+{
+    "title": "Bürozeiten",
+    "rows": [
+        {
+            "days": "Mo - Mi",
+            "hours": "09 - 18 Uhr"
+        },
+        {
+            "days": "Mi",
+            "hours": "14 - 19 Uhr"
+        },
+        {
+            "days": "Do - Fr",
+            "hours": "08 - 20 Uhr"
+        },
+        {
+            "days": "Sa - So",
+            "hours": "16 - 19 Uhr"
+        }
+    ]
+}

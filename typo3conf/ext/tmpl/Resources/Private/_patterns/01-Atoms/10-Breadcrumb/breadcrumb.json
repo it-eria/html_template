@@ -1,0 +1,11 @@
+{
+    "breadcrumb-list": [
+        {
+            "page-name": "Page 1"
+        },
+        {
+            "page-name": "Page 2"
+        }
+    ],
+    "breadcrumb-last": "Current page"
+}

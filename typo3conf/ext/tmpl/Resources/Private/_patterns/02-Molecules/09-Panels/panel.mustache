@@ -1,0 +1,35 @@
+<div class="panel">
+    <div class="panel-title">
+        {{#panel-title}}
+            <div class="row">
+                <div class="col-xs-12 col-sm-3 col-md-2" data-mh="panel-title-gr">
+                    {{#id}}
+                        {{> Atoms-titles }}
+                    {{/id}}
+                </div>
+                <div class="col-xs-12 col-sm-8 col-md-9" data-mh="panel-title-gr">
+                    {{#title}}
+                        {{> Atoms-titles }}
+                    {{/title}}
+                </div>
+                {{#button}}
+                    <a href="#{{collapse-id}}" data-toggle="collapse" class="panel-btn collapsed"></a>
+                {{/button}}
+            </div>
+        {{/panel-title}}
+    </div>
+    <div class="panel-content panel-collapse collapse" id="{{#panel-title.button}}{{collapse-id}}{{/panel-title.button}}">
+        <div class="text-section">
+            {{#panel-content}}
+                <div class="row">
+                    <div class="col-xs-12 col-sm-8 col-md-9 col-sm-offset-3 col-md-offset-2">
+                        {{> Atoms-paragraph }}
+                    </div>
+                </div>
+            {{/panel-content}}
+        </div>
+        {{#panel-table}}
+            {{> Molecules-panel-table }}
+        {{/panel-table}}
+    </div>
+</div>

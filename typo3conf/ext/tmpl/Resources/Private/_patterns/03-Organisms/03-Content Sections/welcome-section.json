@@ -1,0 +1,124 @@
+{
+    "section-title": {
+        "titles": {
+            "t-level": "2",
+            "t-text": "<span class=\"circle\"><i class=\"icon icon-section-title-1\"></i></span>Willkommen bei INKLUVIVA"
+        }
+    },
+    "text": {
+        "paragraphs": {
+            "p-text": "INKLUVIVA wurde 2017 gegründet ist ein eigenständiges Unternehmen mit Sitz in Lahnau. Wir unterstützen Menschen mit Beeinträchtigung und deren Angehörige, bieten Orientierung und Austausch. Wir klären auf, geben Hilfestellung und bringen Menschen mit den zuständigen Ämtern zusammen."
+        }
+    },
+    "teasers": [
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-1.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "titles": {
+                "t-level": "3",
+                "t-text": "Schulassistenz"
+            },
+            "paragraphs": {
+                "p-text": "Schulassistenz bedeutet die Begleitung und Unterstützung von allen Kindern, Jugendlichen und jungen Erwachsenen ..."
+            },
+            "link": {
+                "p": true,
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-2.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "titles": {
+                "t-level": "3",
+                "t-text": "Mobilität"
+            },
+            "paragraphs": {
+                "p-text": "Mobilität - insbesondere für Menschen mit körperlichen Einschränkungen eines der bedeutendsten Menschenrechte."
+            },
+            "link": {
+                "p": true,
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-3.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "titles": {
+                "t-level": "3",
+                "t-text": "Rechtliches"
+            },
+            "paragraphs": {
+                "p-text": "Ob es um das Persönliche Budget, die Erwerbsminderungsrente oder die Kostenübernahme eines dringend ..."
+            },
+            "link": {
+                "p": true,
+                "a-text": "Weiterlesen"
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/thumbnail-4.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "teaser-thumbnail"
+                }
+            },
+            "titles": {
+                "t-level": "3",
+                "t-text": "Reisen"
+            },
+            "paragraphs": {
+                "p-text": "Tipps für einen gelungenen Rollstuhl-Urlaub: Wir zeigen Ihnen auf, was heutzutage für einen Urlaub mit Rollstuhl ..."
+            },
+            "link": {
+                "p": true,
+                "a-text": "Weiterlesen"
+            }
+        }
+    ],
+    "promo-teasers": [
+        {
+            "image": {
+                "url": "../../Images/Dummy/sidebar-teaser-1.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/sidebar-teaser-2.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        },
+        {
+            "image": {
+                "url": "../../Images/Dummy/sidebar-teaser-3.jpg",
+                "alt": "thumbnail",
+                "class": {
+                    "class-name": "img-responsive"
+                }
+            }
+        }
+    ]
+}

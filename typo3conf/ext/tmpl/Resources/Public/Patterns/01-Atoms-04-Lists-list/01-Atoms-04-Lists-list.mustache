@@ -1,0 +1,9 @@
+{{#list}}
+<ul {{#class}}class="{{class-name}}" {{/class}}>
+  {{#items}}
+  <li {{#isActive}}class="active" {{/isActive}}>
+    {{#item-text}} {{li-text}} {{/item-text}} {{#item-link}} {{> Atoms-link}} {{/item-link}} {{#dropdown}} {{> Molecules-navigation-dropdown }} {{/dropdown}}
+  </li>
+  {{/items}}
+</ul>
+{{/list}}

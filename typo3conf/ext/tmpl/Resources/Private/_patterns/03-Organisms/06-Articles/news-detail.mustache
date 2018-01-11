@@ -1,0 +1,57 @@
+<article>
+    {{#section-title}}
+        {{> Molecules-section-title }}
+    {{/section-title}}
+    {{#article-title}}
+        {{> Atoms-titles }}
+    {{/article-title}}
+    {{#article-thumbnail}}
+        {{> Atoms-image }}
+    {{/article-thumbnail}}
+    {{#after-thumbnail-paragraph}}
+        {{> Atoms-paragraph }}
+    {{/after-thumbnail-paragraph}}
+    {{#text-section-1}}
+        {{> Atoms-paragraph }}
+    {{/text-section-1}}
+    {{#title-section-1}}
+        {{> Atoms-titles }}
+    {{/title-section-1}}
+    {{#text-section-2}}
+        {{> Atoms-paragraph }}
+    {{/text-section-2}}
+    {{#carousel-section}}
+        <div class="image-carousel-wraper">
+            <div class="slider-arrows-ctrl">
+                {{> Atoms-slider-arrow }}
+            </div>
+            <div class="image-carousel">
+                {{#sliders}}
+                    <div class="image-carousel__slide text-center">
+                        {{> Atoms-image }}
+                    </div>
+                {{/sliders}}
+            </div>
+            <span class="caption">
+                Lorem ipsum dolor sit, consetetur sadipscing elitr, sed diam eirmod invidunt.
+                <a href="#">
+                    <i class="icon icon-black-search"></i>
+                </a>
+            </span>
+        </div>
+    {{/carousel-section}}
+    {{#text-section-3}}
+        {{> Atoms-paragraph }}
+    {{/text-section-3}}
+    {{#text-section-4}}
+        {{> Atoms-paragraph }}
+    {{/text-section-4}}
+    {{#text-section-5}}
+        {{> Atoms-paragraph }}
+    {{/text-section-5}}
+    {{#more-bottom-link}}
+        <div class="more-link">
+            {{> Atoms-link }}
+        </div>
+    {{/more-bottom-link}}
+</article>

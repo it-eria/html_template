@@ -1,0 +1,222 @@
+// Login button
+.login-btn {
+    color: $color-1;
+    font-size: 20px;
+    &:hover {
+        color: $color-1;
+    }
+    &:focus {
+        color: $color-1;
+    }
+    &:active {
+        color: $color-1;
+    }
+    &:visited {
+        color: $color-1;
+    }
+    .icon {
+        margin-right: 15px;
+        position: relative;
+        top: -5px;
+    }
+}
+
+// Call button
+.call-btn {
+    font-size: 20px;
+    color: $color-1;
+    line-height: 30px;
+    &:hover {
+        color: $color-1;
+    }
+    &:focus {
+        color: $color-1;
+    }
+    &:active {
+        color: $color-1;
+    }
+    &:visited {
+        color: $color-1;
+    }
+    .circle {
+        display: inline-block;
+        vertical-align: middle;
+        width: 38px;
+        height: 38px;
+        background-color: $color-1;
+        border-radius: 50%;
+        position: relative;
+        margin: 0 20px;
+        .icon {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+    .phone {
+        font-size: 30px;
+        position: relative;
+        top: 5px;
+    }
+}
+
+// Burger button
+.burger-btn {
+    display: inline-block;
+    width: 35px;
+    height: 22px;
+    position: relative;
+    span {
+        display: block;
+        width: 100%;
+        height: 4px;
+        background-color: $color-1;
+        border-radius: 2px;
+        transform-origin: 50% 50%;
+        position: absolute;
+        transition: all .3s ease-in-out;
+        &:first-child {
+            top: 0;
+        }
+        &:nth-child(2) {
+            top: 50%;
+            transform: translate(0, -50%);
+        }
+        &:last-child {
+            top: 100%;
+            transform: translate(0, -100%);
+        }
+    }
+    &.active {
+        span {
+            &:first-child {
+                top: 50%;
+                transform: translate(0, -50%) rotate(135deg);
+            }
+            &:nth-child(2) {
+                opacity: 0;
+            }
+            &:last-child {
+                top: 50%;
+                transform: translate(0, -50%) rotate(225deg);
+            }
+        }
+    }
+}
+
+
+// Blue button
+.blue-btn {
+    display: block;
+    border: none;
+    outline: none;
+    transition: all .3s ease-in-out;
+    text-align: center;
+    height: auto;
+    padding: 27px 0;
+    color: $color-1;
+    font-size: 20px;
+    background-color: $color-6;
+    border-radius: 33px;
+    text-decoration: none;
+    position: relative;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 0 $color-6;
+    .icon {
+        margin-right: 20px;
+        position: relative;
+        top: -2px;
+    }
+    &:hover {
+        color: $color-1;
+        top: 5px;
+        left: 5px;
+        box-shadow: -5px -5px 0 $color-7;
+    }
+    &:active {
+        color: $color-1;
+    }
+    &:focus {
+        color: $color-1;
+    }
+    &:visited {
+        color: $color-1;
+    }
+}
+
+// Help button
+.help-btn {
+    display: block;
+    width: 27px;
+    height: 27px;
+    background-color: #d2d2d2;
+    border-radius: 50%;
+    text-align: center;
+    font-family: $os-semibold;
+    font-size: 16px;
+    line-height: 27px;
+    color: $color-2 !important;
+    position: relative;
+    z-index: 4000;
+    transition: all .3s ease-in-out;
+    &:after {
+        content: '+';
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        font-family: Arial;
+        color: transparent;
+        font-size: 30px;
+        transform-origin: 50% 50%;
+        transform: translate(-50%, -50%) rotate(45deg);
+        transition: all .3s ease-in-out;
+    }
+}
+
+// Slider arrow button
+.slider-arrow {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid $color-5;
+    border-radius: 2px;
+    transition: all .3s ease-in-out;
+    transform-origin: 50% 50%;
+    transform: rotate(45deg);
+    &:hover {
+        border-color: $color-2;
+    }
+    &_prev {
+        border-top: none;
+        border-right: none;
+    }
+    &_next {
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+// Panel button
+.panel-btn {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 4px solid $color-2;
+    border-top: none;
+    border-left: none;
+    border-radius: 3px;
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    margin-top: 5px;
+    transform-origin: 50% 50%;
+    transform: translate(-50%, -50%) rotate(-135deg);
+    transition: all .3s ease-in-out;
+    &.collapsed {
+        margin-top: -5px;
+        transform: translate(-50%, -50%) rotate(45deg);
+    }
+}
