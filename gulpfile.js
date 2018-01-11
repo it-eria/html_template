@@ -78,12 +78,11 @@ gulp.task('pl-copy:styleguide', function(){
 
 // Change folder names to right
 gulp.task('folders', function() {
-  return gulp.src(['./**/*.html', './**/*.js', './**/*.min.js', './**/*.css', '!gulpfile.js', '!node_modules/**/*.*'])
+  // return gulp.src(['./**/*.html', './**/*.js', './**/*.min.js', './**/*.css', '!gulpfile.js', '!node_modules/**/*.*'])
+  return gulp.src(['./**/*.html'])
     .pipe(stringReplace('styleguide/', 'Styleguide/'))
     .pipe(stringReplace('patterns/', 'Patterns/'))
-    .pipe(stringReplace('n="patterns"', 'n="Patterns"'))
-    .pipe(stringReplace('a="patterns"', 'a="Patterns"'))
-    .pipe(stringReplace('"patterns"', '"Patterns"'))
+    // .pipe(stringReplace('"patterns"', '"Patterns"'))
     .pipe(gulp.dest(function(file) {
       return file.base;
     }));
