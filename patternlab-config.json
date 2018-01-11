@@ -16,10 +16,10 @@
     },
     "public" : {
       "root" : "./typo3conf/ext/tmpl/Resources/Public/",
-      "patterns" : "./typo3conf/ext/tmpl/Resources/Public/Patterns/",
+      "patterns" : "./typo3conf/ext/tmpl/Resources/Public/patterns/",
       "data" : "./typo3conf/ext/tmpl/Resources/Public/Styleguide/data/",
       "annotations" : "./typo3conf/ext/tmpl/Resources/Public/annotations/",
-      "styleguide" : "./typo3conf/ext/tmpl/Resources/Public/Styleguide/",
+      "styleguide" : "./typo3conf/ext/tmpl/Resources/Public/styleguide/",
       "js" : "./typo3conf/ext/tmpl/Resources/Public/JavaScript/",
       "images" : "./typo3conf/ext/tmpl/Resources/Public/Images/",
       "fonts" : "./typo3conf/ext/tmpl/Resources/Public/Fonts/",
