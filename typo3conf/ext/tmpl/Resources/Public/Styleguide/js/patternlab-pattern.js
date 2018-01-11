@@ -117,7 +117,7 @@ var urlHandler = {
   */
   getFileName: function (name, withRenderedSuffix) {
     
-    var baseDir     = "Patterns";
+    var baseDir     = "patterns";
     var fileName    = "";
     
     if (name === undefined) {
@@ -129,7 +129,7 @@ var urlHandler = {
     }
     
     if (name == "all") {
-      return "Styleguide/html/styleguide.html";
+      return "styleguide/html/styleguide.html";
     } else if (name == "snapshots") {
       return "snapshots/index.html";
     }
@@ -270,7 +270,7 @@ var urlHandler = {
     var iFramePath = "";
     iFramePath = this.getFileName(patternName);
     if (iFramePath === "") {
-      iFramePath = "Styleguide/html/styleguide.html";
+      iFramePath = "styleguide/html/styleguide.html";
     }
     
     var obj = JSON.stringify({ "event": "patternLab.updatePath", "path": iFramePath });
